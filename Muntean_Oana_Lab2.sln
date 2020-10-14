@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muntean_Oana_Lab2", "Muntean_Oana_Lab2.csproj", "{9603059E-8E8A-4DC5-B80A-8BF65E39D2D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9603059E-8E8A-4DC5-B80A-8BF65E39D2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9603059E-8E8A-4DC5-B80A-8BF65E39D2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9603059E-8E8A-4DC5-B80A-8BF65E39D2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9603059E-8E8A-4DC5-B80A-8BF65E39D2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E080334-AEBF-41C5-AFB6-04A618114ABB}
+	EndGlobalSection
+EndGlobal
